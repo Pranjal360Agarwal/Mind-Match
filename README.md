@@ -48,6 +48,8 @@ This project was created by [Pranjal Agarwal] and inspired by various online tut
 
 This project is licensed under the MIT License.
 
+Made by Pranjal Agarwal
+
 
 
 
